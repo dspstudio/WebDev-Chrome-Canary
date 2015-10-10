@@ -1,2 +1,2 @@
-# Google Chrome Canary browser development extensions
+# Chrome Canary development extensions
 
